@@ -23,18 +23,20 @@ header .header--imagen-background{
 background-color: darkgrey;
 width: 80%;
 height: 150px;
-
+background-image: url("../imgs/sun_dibujo1.png");
+background-position: center;
+background-size: cover;
 
 }
 
 header h1{
 
     text-align: center;
-    color: aqua;
+    color:red;
     font-weight: 700;
     font-size: 4.5rem;
     margin-top: 10px;
-    background-image: url();
+    
 
 }
 
@@ -69,31 +71,31 @@ margin-bottom: 15px;
 
 }
 
-main .box-color {
+.box-color {
 
 width: 150px;
 height: 150px;
 border-radius: 5px;
-background-color: blue;
+border: gray solid 1px;
 margin: 5px;
 
 
 
 }
 
-.box-color .1red{
+.cuadro_blue {
  
-    background-color: red;
+background-color: blue;
 }
 
-main .box-color .yellow{
+.cuadro_yellow{
     background-color: yellow;
 }
 
 
-main .box-color .blue {
+.cuadro_red{
     
-    background-color: blue;
+    background-color: red;
 
 
 }  
