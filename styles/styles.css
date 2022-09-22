@@ -10,3 +10,10 @@ html{
 font-size : 62.5%;
 
 }
+
+header{
+
+display: flex;
+justify-content: center;
+
+}
