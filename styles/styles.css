@@ -37,7 +37,7 @@ header h1{
 .header--imagen-background .nav--container{
 
     text-decoration: none;
-    color: aqua;
+    color: tomato;
     margin: 0 auto;
     text-align: center
 
@@ -49,8 +49,8 @@ header h1{
     display: inline-block;
     margin: 5px 10px;
     padding: 3px 10px;
-    border-left: 1px solid aqua;
-    border-right: 1px solid aqua;
+    border-left: 1px solid tomato;
+    border-right: 1px solid tomato;
 
 }
 
