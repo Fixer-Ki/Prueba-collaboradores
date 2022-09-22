@@ -17,3 +17,48 @@ display: flex;
 justify-content: center;
 
 }
+
+header .header--imagen-background{
+
+background-color: darkgrey;
+width: 80%;
+height: auto;
+
+
+}
+
+header h1{
+
+    text-align: center;
+    color: aqua;
+
+}
+
+main{
+    display: flex;
+    width: 70%;
+    height: auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+main .main--container{
+
+flex-direction: column;   
+color: blue;
+width: 80%;
+height: auto;
+margin: 0 auto;
+border: 2px solid gray;
+padding: 2px 3px;
+
+}
+
+main .main--container p{
+
+margin-top: 20px;
+margin-bottom: 15px;
+
+}
