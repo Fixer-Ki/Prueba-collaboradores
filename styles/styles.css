@@ -27,6 +27,7 @@ background-image: url("../imgs/sun_dibujo1.png");
 background-position: center;
 background-size: cover;
 
+
 }
 
 header h1{
@@ -76,11 +77,11 @@ main{
 main .main--container{
 
    
-color: blue;
+color: gray;
 width: 80%;
 height: auto;
 margin: 0 auto;
-border: 2px solid gray;
+border: 2px solid tomato;
 padding: 2px 3px;
 
 }
