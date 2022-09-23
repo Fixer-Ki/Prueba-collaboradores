@@ -1,3 +1,10 @@
+:root{
+
+--colo-Options : tomato;
+
+}
+
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -44,7 +51,7 @@ header h1{
 .header--imagen-background .nav--container{
 
     text-decoration: none;
-    color: tomato;
+    color: var(--colo-Options);
     margin: 0 auto;
     text-align: center
 
@@ -56,8 +63,8 @@ header h1{
     display: inline-block;
     margin: 5px 10px;
     padding: 3px 10px;
-    border-left: 1px solid tomato;
-    border-right: 1px solid tomato;
+    border-left: 1px solid var(--colo-Options);
+    border-right: 1px solid var(--colo-Options);
 
 }
 
