@@ -10,3 +10,6 @@ he aprendido mucho con esta decision que he tomado, no solo en programacion sino
 
 
  ahora, puedo entender muchas cosas que no veia antes --vs5
+
+ohhh sii ahora hago parte de esta historia jajajajaja --Vs6
+
